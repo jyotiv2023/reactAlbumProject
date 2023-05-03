@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Steel Mouse",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Chair",
+      "id": 16
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30160",
+      "id": 1
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61951",
+      "id": 2
+    }
+  ]
+}
